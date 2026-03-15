@@ -1,0 +1,13 @@
+Project Summary
+
+This project focuses on analyzing a large E-Commerce sales dataset containing approximately 186,000 records to identify important business insights and sales trends. The analysis was performed using Python with Pandas, Matplotlib, and Seaborn for data cleaning, exploration, and visualization.
+
+The dataset includes key information such as Order ID, Product Name, Quantity Ordered, Price, Order Date, and Purchase Address. Initial data preprocessing involved handling missing values, removing duplicate or invalid rows, and converting data types to ensure accurate analysis.
+
+Through exploratory data analysis, the project examines several important business questions. These include identifying the best month for sales, determining which cities generate the highest revenue, and discovering the most popular products based on quantity sold. The analysis also investigates product combinations that are frequently purchased together, which can help businesses design better marketing strategies and bundle offers.
+
+Visualizations were created to clearly present patterns in the data. Monthly sales trends, city-wise revenue distribution, and product popularity were displayed using different charts and graphs to make the insights easy to understand.
+
+The results of this analysis provide valuable insights that businesses can use to optimize inventory planning, improve marketing campaigns, and enhance sales performance. For example, identifying peak sales months can help companies plan promotions and manage stock more efficiently, while understanding top-selling products can guide product placement and pricing strategies.
+
+Overall, this project demonstrates how data analytics can transform raw sales data into meaningful insights, helping businesses make informed, data-driven decisions.
